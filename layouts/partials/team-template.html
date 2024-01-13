@@ -1,0 +1,28 @@
+
+    <div class="card-container wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 dark:card-container-dark">
+      <div class="team-card">
+        <div class="team-image-wrapper">
+          {{ $photo := resources.Get .Image }}
+          {{ with $photo }}
+          <img imgh src="{{ .RelPermalink }}" alt="Photo of {{ .Title }}" class="team-member-image" />
+          {{ end }}
+        </div>
+        <p class="text-blk name"> {{ .Name }} </p>
+        <p class="text-blk position"> {{ .Jobtitle }} </p>
+        {{ if .Description }}
+        <p class="text-blk feature-text"> {{ .Description }} </p>
+        {{ end }}
+        <div class="social-icons">
+          {{ if .Linkedinurl }}
+          <a href="https://www.linkedin.com/in/{{ .Params.Linkedinurl }}" target="_blank">
+            <img class="linkedin-icon" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="30px" height="30px">
+          </a>
+          {{ end }}
+          {{ if .Mail }}
+          <a href="mailto:{{ .Params.Mail }}">
+            <img class="mail-icon" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="30px" height="30px">
+          </a>
+          {{ end }}
+        </div>
+      </div>
+    </div>

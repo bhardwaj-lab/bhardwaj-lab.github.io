@@ -1,0 +1,226 @@
+baseURL: ''
+title: Bhardwaj Lab
+languageCode: en-us
+DefaultContentLanguage: en
+enableEmoji: true
+enableGitInfo: true
+enableRobotsTXT: true
+canonifyURLs: true
+paginate: 9
+darkmode_js:
+  - assets/js/darkmode.js
+enableInlineShortcodes: true
+
+markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      linkifyProtocol: https
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer:
+        apostrophe: '&rsquo;'
+        disable: false
+        ellipsis: '&hellip;'
+        emDash: '&mdash;'
+        enDash: '&ndash;'
+        leftAngleQuote: '&laquo;'
+        leftDoubleQuote: '&ldquo;'
+        leftSingleQuote: '&lsquo;'
+        rightAngleQuote: '&raquo;'
+        rightDoubleQuote: '&rdquo;'
+        rightSingleQuote: '&rsquo;'
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+      wrapStandAloneImageWithinParagraph: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: false
+
+params:
+  author: Bhardwaj Lab
+  authorimage: images/global/bhardwajlab_logo_white.svg
+  moto: "Quantitative Biology and Data Integration"
+  #description: "The bhardwaj lab of Quantitative Biology and Data Integration is located at the"
+  linktext: Institute of Biodynamics and Biocomplexity, Utrecht University
+  link: https://www.uu.nl/en/organisation/institute-of-biodynamics-and-biocomplexity
+  headimage: images/pages/multiUMAP_web.png
+  disable_theme_toggle: false
+  disable_stay_uptodate: false
+
+  p1:
+    heading: "Our mission"
+    image: "images/pages/web_slides_p1.png"
+    content:
+      - text: "The long-term goal of our lab is to transform human medicine by enabling technologies for in-vivo, directed (re)programming of stem cells into specialized cell types."
+      - text: "To acheive this, we need to develop a strong understanding of the fundamental mechanisms that guide the fate decisions for 'naive' stem and pluripotent cells inside our body. During development of an embryo, these cells, which share their genetic code, start to diversify in their 'epigenetic' landscapes. Guided by the regulatory proteins (transcription factors) and their chromatin environment, these cells change their identity in order to perform specific tasks."
+      - text: "By learning the quantitative (dose-response) relationship between the epigenetic factors and the decision making process of the cells, we would be able to efficiently reprogram the stem cells into a desired cell type. We can use this understanding to build therapies towards regenerative medicine, healthy aging and cancer."
+    links:
+      - text: Learn more about epigenetic reprogramming
+        url: "#"
+
+  p2:
+    heading: "Our approach"
+    image: "images/pages/web_slides_p2.png"
+    content:
+      - text: "In recent years, several experimental methods have been developed to systematically map the chromatin environment of individual cells, and quantify the gene expression levels of transcription factors. This allows us to build a quantitative understanding of the role of such factors into cellular decision-making."
+      - text: "In our research group, we apply such experimental methods (specifically, single-cell and single-molecule genomics technologies) to understand cellular decision-making. These methods produce large scale data, typically measuring thousands of genes over thousands of cells/samples. We use these datasets to develop statistical and/or machine learning models that can learn the quantitative relationship between the regulators (transcription factors, chromatin context), and a cells current, or future state."
+    links:
+      - text: Learn more about our technologies
+        url: "#"
+
+  p3:
+    heading: "Our Projects"
+    content:
+      - text: "We apply a mix of experimental and computational approach to our projects. The experimental projects in our lab focus on optimizing and applying the quantitative (single-cell/single-molecule) genomics methods on developing vertibrate embryos. Our computational projects focus on building new methods and tools to analyse the data from such technologies, and applying these (and other existing) tools to learn new mechanistic models of cell identity and function."
+    links:
+      - text: Learn more about our projects
+        url: "#"
+    logos:
+      - identifier: a
+        image: "images/global/sample-logo.svg"
+        alt: "a"
+      - identifier: b
+  p4:
+    heading: "News"
+    content:
+      - text: "Latest developments from our lab"
+  p5:
+    heading: "Stay Up to Date"
+    content:
+      - text: "Subscribe to our lab updates/open positions"
+    action: "https://formsubmit.co/vivbhr@gmail.com"
+    label: "Email address"
+    placeholder: "Enter your email"
+    button: "Notify me"
+
+  social_media:
+    github:
+      enabled: true
+      url: 'https://github.com/bhardwaj-lab'
+    twitter:
+      enabled: true
+      url: 'https://twitter.com/vivekbhr'
+    google_scholar:
+      enabled: true
+      url: 'https://scholar.google.com/citations?user=gDipTycAAAAJ&hl=en'
+    University:
+      enabled: true
+      name: Utrecht University
+      url: 'https://www.uu.nl/en/organisation/institute-of-biodynamics-and-biocomplexity'
+
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: team
+      name: Team
+      url: /team/
+      weight: 20
+    - identifier: publications
+      name: Publications
+      url: /publications/
+      weight: 30
+#    - identifier: categories
+#      pre: dropdown
+#      name: Categories
+#      weight: 40
+    - identifier: news
+      name: News
+      url: /categories/news
+      weight: 40
+    - identifier: dropdown
+      pre: complexdropdown
+      name: More
+      weight: 50
+
+  dropdown:
+    - identifier: software
+      pre: stars # can be stars, comments or piechart
+      name: Software
+      post: "Open-source software from our lab"
+      url: "#"
+      weight: 10
+    - identifier: protocols
+      pre: stars # can be stars, comments or piechart
+      name: Protocols
+      post: "Check out our wet-lab protocols"
+      url: "#"
+      weight: 20
+    - identifier: datasets
+      pre: piechart # can be stars, comments or piechart
+      name: Datasets
+      post: "Access datasets from our lab"
+      url: "#"
+      weight: 30
+    - identifier: vacancy
+      pre: comments # can be stars, comments or piechart
+      name: Open positions
+      post: "Join us"
+      url: "#"
+      weight: 40
+  footer:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /categories/blog/
+      weight: 20
+    - identifier: news
+      name: News
+      url: /categories/news/
+      weight: 30
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 50
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  category: Categories
+  tag: Tags
+
+privacy:
+  disqus:
+    disable: false
+  googleAnalytics:
+    anonymizeIP: true
+    disable: false
+    respectDoNotTrack: false
+    useSessionStorage: false
+  instagram:
+    disable: false
+    simple: false
+  twitter:
+    disable: false
+    enableDNT: false
+    simple: false
+  vimeo:
+    disable: false
+    enableDNT: false
+    simple: false
+  youtube:
+    disable: false
+    privacyEnhanced: true
+
+module:
+  hugoVersion:
+    extended: true
+    min: "0.104.0"
