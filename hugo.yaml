@@ -84,6 +84,7 @@ params:
     links:
       - text: Learn more about our projects
         url: "#"
+    image: "images/pages/vblab_projects.png"
     logos:
       - identifier: a
         image: "images/global/sample-logo.svg"

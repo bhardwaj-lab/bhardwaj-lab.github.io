@@ -81,7 +81,7 @@
                     </svg>
                 </div>
                 <div class="relative w-full h-auto px-4 py-6 mx-auto sm:max-w-3xl sm:px-6 lg:px-0 lg:py-20">
-                    <div class="overflow-hidden shadow-xl rounded-2xl">
+                    <div class="overflow-hidden shadow-xl rounded-2xl hover:shadow-lg">
                         {{ $p1image := resources.Get .Site.Params.P1.Image }}
                         {{ with $p1image }}
                         {{ with .Resize (printf "%dx%d webp q90" .Width .Height) }}
@@ -160,7 +160,7 @@
                     {{ $p2image := resources.Get .Site.Params.P2.Image }}
                     {{ with $p2image }}
                     {{ with .Resize (printf "%dx%d webp q90" .Width .Height) }}
-                    <img imgh src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="p2" class="w-full rounded-lg shadow-xl lg:h-full lg:w-auto lg:max-w-none" loading="lazy" />
+                    <img imgh src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="p2" class="w-full rounded-lg shadow-xl lg:h-full lg:w-auto lg:max-w-none hover:shadow-lg" loading="lazy" />
                     {{ end }}
                     {{ end }}
 
@@ -170,9 +170,10 @@
     </div>
 
 
-    <!-- Sponsors section -->
+    <!-- p3: Projects section -->
     <div class="max-w-md px-4 mx-auto md:pt-24 md:pb-16 sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
         <div class="lg:grid lg:grid-cols-2 lg:items-center lg:gap-24">
+    <!-- grid layout with logo:
             <div class="mt-12 grid grid-cols-2 gap-0.5 md:grid-cols-3 lg:mt-0 lg:grid-cols-2">
                 {{ range .Site.Params.P3.Logos }}
                 <div class="flex justify-center col-span-1 px-8 py-8 bg-gray-50 dark:bg-gray-900/10">
@@ -185,6 +186,17 @@
                     {{ end }}
                 </div>
                 {{ end }}
+            </div> -->
+    <!-- image -->
+            <div class="relative w-full h-auto px-4 py-6 mx-auto sm:max-w-3xl sm:px-6 lg:px-0 lg:py-20">
+                <div class="overflow-hidden shadow-2xl rounded-2xl hover:shadow-lg">
+                    {{ $p3image := resources.Get .Site.Params.P3.Image }}
+                    {{ with $p3image }}
+                    {{ with .Resize (printf "%dx%d webp q90" .Width .Height) }}
+                    <img imgh src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" class="w-full h-auto" alt="P3" loading="lazy" />
+                    {{ end }}
+                    {{ end }}
+                </div>
             </div>
             <div>
                 <h2 class="text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-50 sm:text-4xl">
@@ -203,6 +215,7 @@
                 </div>
                 {{ end }}
             </div>
+
         </div>
     </div>
 
