@@ -47,7 +47,7 @@ markup:
 
 params:
   author: Bhardwaj Lab
-  authorimage: images/global/bhardwajlab_logo_white.svg
+  authorimage: images/global/bhardwajlab_logo.svg
   moto: "Quantitative Biology and Data Integration"
   #description: "The bhardwaj lab of Quantitative Biology and Data Integration is located at the"
   linktext: Institute of Biodynamics and Biocomplexity, Utrecht University
@@ -132,10 +132,6 @@ menu:
       name: Publications
       url: /publications/
       weight: 30
-#    - identifier: categories
-#      pre: dropdown
-#      name: Categories
-#      weight: 40
     - identifier: news
       name: News
       url: /categories/news
@@ -144,6 +140,7 @@ menu:
       pre: complexdropdown
       name: More
       weight: 50
+#     pre: dropdown
 
   dropdown:
     - identifier: software
