@@ -16,3 +16,11 @@ member:
     Mail: "#"
     Weight: 1
 ---
+
+
+## Former members / visitors
+
+| Name                  | Role, Period                 | Current Position                         |
+| --------------------- | ---------------------------- | ---------------------------------------- |
+|                       |                              |                                          |
+|                       |                              |                                          |

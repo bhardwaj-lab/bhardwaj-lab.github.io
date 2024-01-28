@@ -10,25 +10,23 @@
 
 <div class="responsive-container-block container">
 
-<h5 class="pub-card-title dark:text-white" > Below is a list of our selected publications. ( `*` = equal contribution ) </h5> 
+<h5 class="pub-card-title dark:text-white" > Below is a list of our selected publications. ( `*` = equal contribution ) </h5>
 
   <div class="responsive-container-block">
       {{ range .Params.paper }}
       {{ partial "publications-template.html" . }}
       {{ end }}
   </div>
+
+  <a class="pub-card" href="{{ .Params.Archive }}">
+      <b>Click here for a complete list of publications.</b>
+      <div class="go-corner">
+        <div class="go-arrow">
+          →
+        </div>
+      </div>
+    </a>
 </div>
 
-<a class="pub-card2" href="{{ .Params.Archive }}">
-    <b>Click here for a complete list of publications.</b>
-    <div class="go-corner">
-      <div class="go-arrow">
-        →
-      </div>
-    </div>
-  </a>
-  
-
-</br> </br>
 
 {{ end }}

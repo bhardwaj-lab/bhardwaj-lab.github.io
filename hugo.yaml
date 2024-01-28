@@ -49,7 +49,6 @@ params:
   author: Bhardwaj Lab
   authorimage: images/global/bhardwajlab_logo.svg
   moto: "Quantitative Biology and Data Integration"
-  #description: "The bhardwaj lab of Quantitative Biology and Data Integration is located at the"
   linktext: Institute of Biodynamics and Biocomplexity, Utrecht University
   link: https://www.uu.nl/en/organisation/institute-of-biodynamics-and-biocomplexity
   headimage: images/pages/multiUMAP_web.png
@@ -72,7 +71,7 @@ params:
     image: "images/pages/web_slides_p2.png"
     content:
       - text: "In recent years, several experimental methods have been developed to systematically map the chromatin environment of individual cells, and quantify the gene expression levels of transcription factors. This allows us to build a quantitative understanding of the role of such factors into cellular decision-making."
-      - text: "In our research group, we apply such experimental methods (specifically, single-cell and single-molecule genomics technologies) to understand cellular decision-making. These methods produce large scale data, typically measuring thousands of genes over thousands of cells/samples. We use these datasets to develop statistical and/or machine learning models that can learn the quantitative relationship between the regulators (transcription factors, chromatin context), and a cells current, or future state."
+      - text: "In our research group, we use such experimental methods (specifically, single-cell and single-molecule genomics technologies) to understand cellular decision-making. These methods produce large scale data, typically measuring thousands of genes over thousands of cells, molecules, or samples. We use these datasets to develop statistical and/or machine learning models that can learn the quantitative relationship between the regulators (transcription factors, chromatin context), and a cell's current or future state."
     links:
       - text: Learn more about our technologies
         url: "#"
@@ -80,7 +79,7 @@ params:
   p3:
     heading: "Our Projects"
     content:
-      - text: "We apply a mix of experimental and computational approach to our projects. The experimental projects in our lab focus on optimizing and applying the quantitative (single-cell/single-molecule) genomics methods on developing vertibrate embryos. Our computational projects focus on building new methods and tools to analyse the data from such technologies, and applying these (and other existing) tools to learn new mechanistic models of cell identity and function."
+      - text: "We apply a data-driven biology approach to our projects. Half of our work is focussed on extracting new insights from quantitative epigenomics and multi-omics data of embryonic development, with the aim to learn new mechanistic models of cell identity and function. The rest half of our work is focussed on building new bioinformatic methods and tools to analyse the data from such technologies, and making them available to biologists."
     links:
       - text: Learn more about our projects
         url: "#"
@@ -116,14 +115,14 @@ params:
     University:
       enabled: true
       name: Utrecht University
-      url: 'https://www.uu.nl/en/organisation/institute-of-biodynamics-and-biocomplexity'
+      url: 'https://www.uu.nl/en/'
 
 
 menu:
   main:
     - identifier: about
       name: About
-      url: /about/
+      url: "#"
       weight: 10
     - identifier: team
       name: Team
