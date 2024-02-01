@@ -70,8 +70,8 @@ params:
     heading: "Our approach"
     image: "images/pages/web_slides_p2.png"
     content:
-      - text: "In recent years, several experimental methods have been developed to systematically map the chromatin environment of individual cells, and quantify the gene expression levels of transcription factors. This allows us to build data-driven models that explain the role of these proteins into cellular decision-making."
-      - text: "In our research group, we use such experimental methods (specifically, single-cell and single-molecule genomics technologies) to understand cellular decision-making. These methods produce large scale data, typically measuring thousands of genes over thousands of cells, molecules, or samples. We use these datasets to develop statistical and machine learning models that can explain the relationship between the regulators (transcription factors, chromatin context), and a cell's current or future state."
+      - text: "In recent years, several experimental methods have been developed to systematically map the chromatin environment of individual cells, and quantify the gene expression levels of transcription factors. This allows us to build data-driven models that explain the role of these proteins in cellular decision-making."
+      - text: "In our research group, we apply such experimental methods (specifically, single-cell and single-molecule genomics technologies) to understand cellular decision-making. These methods produce large scale data, typically measuring thousands of genes over thousands of cells, molecules, or samples. We use these datasets to develop statistical and machine learning models that can explain the relationship between the regulators (transcription factors, chromatin state), and a cell's current or future state."
     links:
       - text: Learn more about our technologies
         url: "#"
