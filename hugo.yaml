@@ -91,6 +91,7 @@ params:
       - identifier: b
   p4:
     heading: "News"
+    maxposts: 1
     content:
       - text: "Latest developments from our lab"
   p5:
@@ -170,7 +171,7 @@ menu:
   footer:
     - identifier: about
       name: About
-      url: /about/
+      url: "#"
       weight: 10
     - identifier: blog
       name: Blog
