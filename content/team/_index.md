@@ -3,10 +3,10 @@ title: 'Team'
 
 member:
   - Name: "Vivek Bhardwaj"
-    Image: ../assets/images/team/vbhardwaj.jpg
+    Image: ../assets/images/team/vbhardwaj_headshot.png
     Jobtitle: "PI"
     Linkedinurl: "https://www.linkedin.com/in/vivekbhr"
-    Mail: "vivbhr@gmail.com"
+    Mail: "v.bhardwaj@uu.nl"
     Weight: 1
 
   - Name: "You"
