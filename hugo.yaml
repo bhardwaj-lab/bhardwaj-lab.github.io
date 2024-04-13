@@ -79,7 +79,7 @@ params:
   p3:
     heading: "Our Projects"
     content:
-      - text: "We apply a data-driven biology approach to our projects. Half of our work is focussed on extracting new insights from quantitative epigenomics and multi-omics data of embryonic development, with the aim to learn new mechanistic models of cell identity and function. The rest half of our work is focussed on building new bioinformatic methods and tools to analyse the data from such technologies, and making them available to biologists."
+      - text: "We apply a data-driven biology approach to our projects. Half of our work is focussed on extracting new insights from quantitative epigenomics and multi-omics data of developing cells, with the aim to learn new mechanistic models of cell identity and function. The rest half of our work is focussed on building new bioinformatic methods and tools to analyse the data from such technologies, and making them available to biologists."
     links:
       - text: Learn more about our projects
         url: "posts/news-post-1/"

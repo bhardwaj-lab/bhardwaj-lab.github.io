@@ -7,10 +7,13 @@ description: Open Positions
 authorimage: ../assets/images/global/author.png
 ---
 
+## Postdoc Positions
+
+For candidates interested in starting a postdoc in 2025, we can provide support for the [HPSF postdoctoral fellowships](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships). Feel free to [contact me](mailto:v.bhardwaj@uu.nl) before **april 30th** for further information.
+
 ## PhD position
 
-For students with a master's degree, and a background in Bioinformatics, computer science, applied data science, or other related disciplines, we have an opportunity for a **4-year, fully funded PhD position!** An official advertisement, along with information about the position will soon follow. But students who are interested in the **computational (epi)genomics of single-cells** are encouraged to [contact me](mailto:v.bhardwaj@uu.nl) for further information.
-
+For students with a dutch residency and migration background, we are able to support a potential PhD position via the [NWO-MOSAIC 2.0 call](https://www.nwo.nl/en/calls/mosaic-20-2024). If you hold a master's degree in bioinformatics/computer science, or life science with genomics experience, you can apply for the program via one of our lab's projects. Interested students are adviced to look at the details of the program, and if eligible [contact me](mailto:v.bhardwaj@uu.nl) before **april 30th**, for further information.
 
 ## Master's internships
 
