@@ -1,17 +1,28 @@
 
-##### Install with NPM 
-`npm install`
-##### Install with Yarn
-`yarn`
+## Install from scratch on a mac
 
-**To start developing:**
-##### Develop with NPM 
-`npm run start`
-##### Develop with Yarn
-`yarn start`
+1. Install homebrew (needs sudo)
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+2. Install hugo using homebrew
+
+```
+brew install hugo
+```
+
+3. Install [nodejs and npm](https://nodejs.org/en/download/) for mac. This already bring yarn as well.
+
+4. Get []**Yarn**](https://yarnpkg.com/getting-started/install) binary in your path via corepack. Then start the project via yarn.
+
+```
+sudo corepack enable
+yarn start
+```
 
 **To generate the site HTML:**
-##### Build with NPM 
+##### Build with NPM
 `npm run build`
 ##### Build with Yarn
 `yarn build`
@@ -19,7 +30,7 @@
 **npm run start** will run two commands parallel:  
 `npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css --watch`
 
-Has paginated Categories and Tags. Markdown files will automatically convert images put into `/assets` folder to .webp images. 
+Has paginated Categories and Tags. Markdown files will automatically convert images put into `/assets` folder to .webp images.
 
 ## Image shortcodes for webp as well.
 {{< imgc src="img-name.jpg" alt="Place alt text here." >}}
