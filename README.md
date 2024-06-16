@@ -14,7 +14,7 @@ brew install hugo
 
 3. Install [nodejs and npm](https://nodejs.org/en/download/) for mac. This already bring yarn as well.
 
-4. Get []**Yarn**](https://yarnpkg.com/getting-started/install) binary in your path via corepack. Then start the project via yarn.
+4. Get [**Yarn**](https://yarnpkg.com/getting-started/install) binary in your path via corepack. Then start the project via yarn.
 
 ```
 sudo corepack enable

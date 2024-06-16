@@ -9,6 +9,20 @@ member:
     Mail: "v.bhardwaj@uu.nl"
     Weight: 1
 
+  - Name: "Faik Usul"
+    Image: ../assets/images/team/unknown.jpg
+    Jobtitle: "Intern"
+    Linkedinurl: "#"
+    Mail: "#"
+    Weight: 1
+
+  - Name: "Maria Karaboeva"
+    Image: ../assets/images/team/unknown.jpg
+    Jobtitle: "Intern"
+    Linkedinurl: "#"
+    Mail: "#"
+    Weight: 1
+
   - Name: "You"
     Image: ../assets/images/team/unknown.jpg
     Jobtitle: "Join Us"
