@@ -4,6 +4,20 @@ title: 'Publications'
 archive: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=gDipTycAAAAJ&sortby=pubdate
 
 paper:
+  - Title: "User-friendly exploration of epigenomic data in single cells using sincei"
+    Authors: Bhardwaj V, Mourragui S
+    Year: 2024
+    Journal: biorXiv
+    Link: "https://www.biorxiv.org/content/10.1101/2024.07.27.605424v1.full"
+    Weight: 1
+
+  - Title: "T-ChIC: multi-omic detection of histone modifications and full-length transcriptomes in the same single cell"
+    Authors: Zeller P, Blotenburg M, Bhardwaj V, de Barbanson BA, Salmen F, van Oudenaarden A.
+    Year: 2024
+    Journal: biorXiv
+    Link: "https://www.biorxiv.org/content/10.1101/2024.05.09.593364v1.full"
+    Weight: 1
+
   - Title: "Single-cell sortChIC identifies hierarchical chromatin dynamics during hematopoiesis"
     Authors: Zeller* P, Yeung* J, Gaza HV, de Barbanson BA, Bhardwaj V, Florescu M,  van der Linden R, van Oudenaarden A.
     Year: 2023

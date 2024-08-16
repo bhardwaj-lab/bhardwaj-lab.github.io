@@ -9,8 +9,15 @@ member:
     Mail: "v.bhardwaj@uu.nl"
     Weight: 1
 
+  - Name: "Fernando Sancho Gomez"
+    Image: ../assets/images/team/fernando_sgomez.jpg
+    Jobtitle: "PhD Student"
+    Linkedinurl: "https://www.linkedin.com/in/fernando-sancho-gomez/"
+    Mail: "f.sanchogomez@uu.nl"
+    Weight: 1
+
   - Name: "Faik Usul"
-    Image: ../assets/images/team/unknown.jpg
+    Image: ../assets/images/team/faik_usul.jpg
     Jobtitle: "Intern"
     Linkedinurl: "#"
     Mail: "#"
@@ -36,5 +43,5 @@ member:
 
 | Name                  | Role, Period                 | Current Position                         |
 | --------------------- | ---------------------------- | ---------------------------------------- |
-|                       |                              |                                          |
+|  Gerrit Jongjan       | Bachelor student, 2024       |                                          |
 |                       |                              |                                          |

@@ -41,5 +41,8 @@
   "bugs": {
     "url": "https://github.com/bhardwaj-lab/bhardwajlab/issues"
   },
-  "homepage": "https://github.com/bhardwaj-lab/bhardwajlab"
+  "homepage": "https://github.com/bhardwaj-lab/bhardwajlab",
+  "dependencies": {
+    "npm-watch": "^0.11.0"
+  }
 }
