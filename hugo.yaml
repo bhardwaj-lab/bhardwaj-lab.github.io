@@ -91,7 +91,7 @@ params:
       - identifier: b
   p4:
     heading: "News"
-    maxposts: 1
+    maxposts: 3
     content:
       - text: "Latest developments from our lab"
   p5:
