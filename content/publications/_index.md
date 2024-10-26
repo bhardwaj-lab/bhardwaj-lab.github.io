@@ -4,6 +4,13 @@ title: 'Publications'
 archive: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=gDipTycAAAAJ&sortby=pubdate
 
 paper:
+  - Title: "Single-cell multi-omic analysis reveals principles of transcription-chromatin interaction during embryogenesis"
+    Authors: Bhardwaj V, Griffa A, Viñas Gaza H, Zeller P, van Oudenaarden A
+    Year: 2024
+    Journal: biorXiv
+    Link: "https://www.biorxiv.org/content/10.1101/2024.09.23.614335v1.full"
+    Weight: 1
+
   - Title: "User-friendly exploration of epigenomic data in single cells using sincei"
     Authors: Bhardwaj V, Mourragui S
     Year: 2024
@@ -21,7 +28,7 @@ paper:
   - Title: "Single-cell sortChIC identifies hierarchical chromatin dynamics during hematopoiesis"
     Authors: Zeller* P, Yeung* J, Gaza HV, de Barbanson BA, Bhardwaj V, Florescu M,  van der Linden R, van Oudenaarden A.
     Year: 2023
-    Journal: Nat. Genetics
+    Journal: Nature Genetics
     Link: "https://www.nature.com/articles/s41588-022-01260-3"
     Weight: 1
 
@@ -35,7 +42,7 @@ paper:
   - Title: MAPCap allows high-resolution detection and differential expression analysis of transcription start sites.
     Authors: Bhardwaj V*, Semplicio G*, Erdogdu NU, Manke T & Akhtar A
     Year: 2019
-    Journal: Nat. Commun.
+    Journal: Nature Communications
     Link: "https://www.nature.com/articles/s41467-019-11115-x"
     Weight: 1
 
@@ -49,21 +56,8 @@ paper:
   - Title: "High-resolution TADs reveal DNA sequences underlying genome organization in flies."
     Authors: "Ramírez F*, Bhardwaj V*, Arrigoni L, Lam KC, Grüning BA, Villaveces J, Habermann B, Akhtar A & Manke T"
     Year: 2018
-    Journal: "Nat. Commun."
+    Journal: Nature Communications
     Link: "https://www.nature.com/articles/s41467-017-02525-w"
     Weight: 1
 
-  - Title: "DHX9 suppresses RNA processing defects originating from the Alu invasion of the human genome."
-    Authors: "Aktaş T, Avşar Ilık İ, Maticzka D, Bhardwaj V, Pessoa Rodrigues C, Mittler G, Manke T, Backofen R & Akhtar A"
-    Year: 2017
-    Journal: Nature
-    Link: "https://www.nature.com/articles/nature21715"
-    Weight: 1
-
-  - Title: "deepTools2: a next generation web server for deep-sequencing data analysis."
-    Authors: "Ramírez F, Ryan DP, Grüning B, Bhardwaj V, Kilpert F, Richter AS, Heyne S, Dündar F & Manke T"
-    Year: 2016
-    Journal: "Nucleic Acids Res."
-    Link: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987876/"
-    Weight: 1
 ---

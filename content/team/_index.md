@@ -4,7 +4,7 @@ title: 'Team'
 member:
   - Name: "Vivek Bhardwaj"
     Image: ../assets/images/team/vbhardwaj_headshot.png
-    Jobtitle: "PI"
+    Jobtitle: "Group Leader"
     Linkedinurl: "https://www.linkedin.com/in/vivekbhr"
     Mail: "v.bhardwaj@uu.nl"
     Weight: 1
@@ -24,6 +24,13 @@ member:
     Weight: 1
 
   - Name: "Maria Karaboeva"
+    Image: ../assets/images/team/unknown.jpg
+    Jobtitle: "Intern"
+    Linkedinurl: "#"
+    Mail: "#"
+    Weight: 1
+
+  - Name: "Caspar Bannink"
     Image: ../assets/images/team/unknown.jpg
     Jobtitle: "Intern"
     Linkedinurl: "#"

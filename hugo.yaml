@@ -64,7 +64,7 @@ params:
       - text: "By learning the quantitative, dose-response relationship between the epigenetic factors and the decision making process of the cells, we would be able to efficiently reprogram the stem cells into a desired cell type. We can use this understanding to build therapies towards regenerative medicine, healthy aging and cancer."
     links:
       - text: Learn more about epigenetic reprogramming
-        url: "#"
+        url: "posts/references/"
 
   p2:
     heading: "Our approach"
@@ -82,7 +82,7 @@ params:
       - text: "We apply a data-driven biology approach to our projects. Half of our work is focussed on extracting new insights from quantitative epigenomics and multi-omics data of developing cells, with the aim to learn new mechanistic models of cell identity and function. The rest half of our work is focussed on building new bioinformatic methods and tools to analyse the data from such technologies, and making them available to biologists."
     links:
       - text: Learn more about our projects
-        url: "posts/news-post-1/"
+        url: "posts/news-1_kickstart/"
     image: "images/pages/vblab_projects.png"
     logos:
       - identifier: a
