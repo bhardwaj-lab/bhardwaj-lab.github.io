@@ -31,7 +31,7 @@ member:
     Weight: 1
 
   - Name: "Caspar Bannink"
-    Image: ../assets/images/team/unknown.jpg
+    Image: ../assets/images/team/caspar_bannink.jpg
     Jobtitle: "Intern"
     Linkedinurl: "#"
     Mail: "#"
