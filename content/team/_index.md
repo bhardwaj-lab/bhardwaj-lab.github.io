@@ -16,8 +16,8 @@ member:
     Mail: "f.sanchogomez@uu.nl"
     Weight: 1
 
-  - Name: "Faik Usul"
-    Image: ../assets/images/team/faik_usul.jpg
+  - Name: "Bar Melinarskiy"
+    Image: ../assets/images/team/bar_melinarskiy.jpg
     Jobtitle: "Intern"
     Linkedinurl: "#"
     Mail: "#"
@@ -51,4 +51,4 @@ member:
 | Name                  | Role, Period                 | Current Position                         |
 | --------------------- | ---------------------------- | ---------------------------------------- |
 |  Gerrit Jongjan       | Bachelor student, 2024       |                                          |
-|                       |                              |                                          |
+|  Faik Usul            | Master student, 2024-2025    |                                          |

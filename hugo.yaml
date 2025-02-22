@@ -168,6 +168,12 @@ menu:
       post: "Join us"
       url: "/open_positions/"
       weight: 40
+    - identifier: internship
+      pre: comments # can be stars, comments or piechart
+      name: Internships
+      post: "Work with us on a research project"
+      url: "/internships/"
+      weight: 50
   footer:
     - identifier: about
       name: About
