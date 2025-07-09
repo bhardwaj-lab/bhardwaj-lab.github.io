@@ -15,14 +15,14 @@ Are you a student enrolled in a master's program in (applied) data science / com
  - For the students with **technical background**, the knowledge of biology is not required. We expect you to bring in good foundation in data science and/or algorithms. An interest in learning the biological background behind our project (particularly the data generation process) is desirable.
  - For students with **life science background**, the knowledge of data science or algorithms is not necessary. We expect you to bring in a solid understanding of molecular biology and (regulatory) genomics. An interest in learning the statistical and algorithmic foundation of data analysis is desirable.
 
-For students enrolled in molecular life sciences / genetics / biomedical sciences programs, we have opportunities for specific mixed (wet+dry lab) projects from time to time. Feel free to [contact me](mailto:v.bhardwaj@uu.nl) if you are interested in such projects.
+For students enrolled in molecular life sciences / genetics / biomedical sciences programs, we have opportunities for specific mixed (wet+dry lab) projects from time to time. Feel free to [contact vivek](mailto:v.bhardwaj@uu.nl) clearly indicating if you are interested in such projects.
 
 For students in UU [BiBC program](https://www.uu.nl/en/masters/bioinformatics-and-biocomplexity), we only provide the second, 6 month internship (under [GSLS profile: general research](https://students.uu.nl/en/gsls/education/profiles/general-research-profile)).
 
 ### Application process
 
 Before applying, please collect the following information for us:
- - Inform the supervisor of your previous internship to prepare a reference letter to be sent (directly) to us, outlining your research and writing/presenting skills and work ethics.
+ - Inform the supervisor of your current/previous internship to prepare a reference letter to be sent (directly) to us, outlining your research and writing/presenting skills and work ethics.
  - Provide us (link to) a code repository or a practical assignment result/report which highlights your programming and (optionally) or data science skills.
 
 **Step-1:** For the application, send us your CV (listing recent relevant courses and grades), a short motivation of your research interests (what do you expect to work or and achieve during the internship), along with the above information. Clearly indicate the expected start and end period for the internship.
