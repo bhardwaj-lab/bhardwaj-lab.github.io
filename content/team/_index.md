@@ -16,15 +16,36 @@ member:
     Mail: "f.sanchogomez@uu.nl"
     Weight: 1
 
-  - Name: "Bar Melinarskiy"
-    Image: ../assets/images/team/bar_melinarskiy.jpg
-    Jobtitle: "Intern"
+  - Name: "Rahul Padala"
+    Image: ../assets/images/team/rahul_padala.png
+    Jobtitle: "PhD Student (shared w/ Bakkers group)"
+    Linkedinurl: "#"
+    Mail: "#"
+    Weight: 1
+
+  - Name: "Toni van de Capel"
+    Image: ../assets/images/team/unknown.jpg
+    Jobtitle: "Research Assistant"
+    Linkedinurl: "#"
+    Mail: "#"
+    Weight: 1
+
+  - Name: "Mai Le"
+    Image: ../assets/images/team/mai_le.jpg
+    Jobtitle: "Master Student"
     Linkedinurl: "#"
     Mail: "#"
     Weight: 1
 
   - Name: "Caspar Bannink"
     Image: ../assets/images/team/caspar_bannink.jpg
+    Jobtitle: "Master Student"
+    Linkedinurl: "#"
+    Mail: "#"
+    Weight: 1
+
+  - Name: "Bar Melinarskiy"
+    Image: ../assets/images/team/bar_melinarskiy.jpg
     Jobtitle: "Intern"
     Linkedinurl: "#"
     Mail: "#"

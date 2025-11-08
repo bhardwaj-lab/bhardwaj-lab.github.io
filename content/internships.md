@@ -11,19 +11,20 @@ description: Learn about how to apply for an internship with us
 Are you a student enrolled in a master's program in (applied) data science / computer science or a related field, and interested in gaining experience in bioinformatics? Or are you enrolled in a bioinformatics program and would like to do a research project related to computational genomics? We have **multiple projects suitable for a master's internship/thesis!** Please consider the following before applying:
 
  - We can only offer internships that involve a **minimum of 6 months of research work**.
+ - The internships are not funded. However, students from outside the Netherlands are welcome to apply to us via the [ERASMUS+ program](https://erasmus-plus.ec.europa.eu/), if they are eligible (look at the website for details).
  - Students must already **bring strong programming skills** in a language appropriate for bioinformatics, such as Python, R, Java, C/C++ or Rust. Additionally, some linux or bash skills are desirable.
  - For the students with **technical background**, the knowledge of biology is not required. We expect you to bring in good foundation in data science and/or algorithms. An interest in learning the biological background behind our project (particularly the data generation process) is desirable.
  - For students with **life science background**, the knowledge of data science or algorithms is not necessary. We expect you to bring in a solid understanding of molecular biology and (regulatory) genomics. An interest in learning the statistical and algorithmic foundation of data analysis is desirable.
 
 For students enrolled in molecular life sciences / genetics / biomedical sciences programs, we have opportunities for specific mixed (wet+dry lab) projects from time to time. Feel free to [contact vivek](mailto:v.bhardwaj@uu.nl) clearly indicating if you are interested in such projects.
 
-For students in UU [BiBC program](https://www.uu.nl/en/masters/bioinformatics-and-biocomplexity), we only provide the second, 6 month internship (under [GSLS profile: general research](https://students.uu.nl/en/gsls/education/profiles/general-research-profile)).
+If you are enrolled in the UU [BiBC program](https://www.uu.nl/en/masters/bioinformatics-and-biocomplexity), we can support the second, 6 month internship (under [GSLS profile: general research](https://students.uu.nl/en/gsls/education/profiles/general-research-profile)), after you have gathered sufficient research skills with your first internship.
 
 ### Application process
 
 Before applying, please collect the following information for us:
  - Inform the supervisor of your current/previous internship to prepare a reference letter to be sent (directly) to us, outlining your research and writing/presenting skills and work ethics.
- - Provide us (link to) a code repository or a practical assignment result/report which highlights your programming and (optionally) or data science skills.
+ - Provide us (link to) a code repository or a practical assignment result/report which highlights your programming and (optionally) your data science skills.
 
 **Step-1:** For the application, send us your CV (listing recent relevant courses and grades), a short motivation of your research interests (what do you expect to work or and achieve during the internship), along with the above information. Clearly indicate the expected start and end period for the internship.
 
