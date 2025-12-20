@@ -37,13 +37,6 @@ member:
     Mail: "#"
     Weight: 1
 
-  - Name: "Caspar Bannink"
-    Image: ../assets/images/team/caspar_bannink.jpg
-    Jobtitle: "Master Student"
-    Linkedinurl: "#"
-    Mail: "#"
-    Weight: 1
-
   - Name: "Bar Melinarskiy"
     Image: ../assets/images/team/bar_melinarskiy.jpg
     Jobtitle: "Intern"
@@ -67,3 +60,4 @@ member:
 |  Gerrit Jongjan       | Bachelor student, 2024       |                                          |
 |  Faik Usul            | Master student, 2024-2025    |                                          |
 |  Maria Karaboeva      | Master student, 2024-2025    |                                          |
+|  Caspar Bannink       | Master student, 2024-2025    |                                          |
