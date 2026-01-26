@@ -23,7 +23,7 @@ member:
     Mail: "#"
     Weight: 1
 
-  - Name: "Toni van de Capel"
+  - Name: "Toni van Capel"
     Image: ../assets/images/team/unknown.jpg
     Jobtitle: "Research Assistant"
     Linkedinurl: "#"
