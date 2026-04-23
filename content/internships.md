@@ -31,3 +31,8 @@ Before applying, please collect the following information for us:
 **Step-2:** After we have received your information (including the reference) and are able to accommodate you for the intended period, we can schedule a discussion to discuss potential projects that might be suitable and interesting for you. Once we have identified the project, you start preparing a proposal.
 
 **Step-3:** You prepare a project proposal based on available literature and the information provided by us. You (together with us) also identify an external examiner who, together with your daily supervisor from our lab, will read and approve your proposal. Once the proposal is approved, your research internship can begin!
+
+
+## Bachelor's internships
+
+We can support bachelor's thesis projects **for UU enrolled life science or biomedical science students** from time to time. Contact the thesis coordinator of your program for details. We do not support students from other programs/universities for bachelor's thesis.

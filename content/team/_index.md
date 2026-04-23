@@ -37,13 +37,6 @@ member:
     Mail: "#"
     Weight: 1
 
-  - Name: "Bar Melinarskiy"
-    Image: ../assets/images/team/bar_melinarskiy.jpg
-    Jobtitle: "Intern"
-    Linkedinurl: "#"
-    Mail: "#"
-    Weight: 1
-
   - Name: "You"
     Image: ../assets/images/team/unknown.jpg
     Jobtitle: "Join Us"
