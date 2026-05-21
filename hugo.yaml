@@ -108,7 +108,7 @@ params:
       enabled: true
       url: 'https://github.com/bhardwaj-lab'
     twitter:
-      enabled: true
+      enabled: false
       url: 'https://twitter.com/vivekbhr'
     google_scholar:
       enabled: true
