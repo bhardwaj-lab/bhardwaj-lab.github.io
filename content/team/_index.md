@@ -20,21 +20,28 @@ member:
     Image: ../assets/images/team/rahul_padala.png
     Jobtitle: "PhD Student (shared w/ Bakkers group)"
     Linkedinurl: "#"
-    Mail: "#"
+    Mail: "r.r.padala@uu.nl"
     Weight: 1
 
   - Name: "Toni van Capel"
     Image: ../assets/images/team/unknown.jpg
     Jobtitle: "Research Assistant"
     Linkedinurl: "#"
-    Mail: "#"
+    Mail: "t.m.m.vancapel@uu.nl"
     Weight: 1
 
   - Name: "Mai Le"
     Image: ../assets/images/team/mai_le.jpg
     Jobtitle: "Master Student"
     Linkedinurl: "#"
-    Mail: "#"
+    Mail: "m.le@students.uu.nl"
+    Weight: 1
+
+  - Name: "Michiel Borghuis"
+    Image: ../assets/images/team/michiel_borghuis.jpg
+    Jobtitle: "Master Student"
+    Linkedinurl: "#"
+    Mail: "g.m.borghuis@students.uu.nl"
     Weight: 1
 
   - Name: "You"
