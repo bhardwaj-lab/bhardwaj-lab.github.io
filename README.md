@@ -1,4 +1,11 @@
 
+## Run locally (post setup)
+
+```
+conda activate website
+yarn start
+```
+
 ## Install from scratch on a mac
 
 1. Install homebrew (needs sudo)
@@ -22,10 +29,11 @@ yarn start
 ```
 
 **To generate the site HTML:**
-##### Build with NPM
-`npm run build`
 ##### Build with Yarn
 `yarn build`
+
+##### Build with NPM
+`npm run build`
 
 **npm run start** will run two commands parallel:  
 `npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css --watch`

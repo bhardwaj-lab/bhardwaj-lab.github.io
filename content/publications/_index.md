@@ -4,11 +4,18 @@ title: 'Publications'
 archive: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=gDipTycAAAAJ&sortby=pubdate
 
 paper:
-  - Title: "Single-cell multi-omic analysis reveals principles of transcription-chromatin interaction during embryogenesis"
+  - Title: "Single-cell co-mapping reveals relationship between chromatin state and gene expression in early zebrafish development"
     Authors: Bhardwaj V, Griffa A, Viñas Gaza H, Zeller P, van Oudenaarden A
-    Year: 2024
+    Year: 2026
+    Journal: eLife
+    Link: "https://elifesciences.org/articles/110400"
+    Weight: 1
+
+  - Title: "Detection of histone modifications and full-length transcriptome in single cells identifies sequential epigenetic perceptiveness to lineage commitment"
+    Authors: Blotenburg M, Bhardwaj V, de Barbanson BA, Salmen F, Zeller P, van Oudenaarden A.
+    Year: 2025
     Journal: biorXiv
-    Link: "https://www.biorxiv.org/content/10.1101/2024.09.23.614335v1.full"
+    Link: "https://www.biorxiv.org/content/10.1101/2024.05.09.593364v2.abstract"
     Weight: 1
 
   - Title: "User-friendly exploration of epigenomic data in single cells using sincei"
@@ -16,13 +23,6 @@ paper:
     Year: 2024
     Journal: biorXiv
     Link: "https://www.biorxiv.org/content/10.1101/2024.07.27.605424v1.full"
-    Weight: 1
-
-  - Title: "T-ChIC: multi-omic detection of histone modifications and full-length transcriptomes in the same single cell"
-    Authors: Zeller P, Blotenburg M, Bhardwaj V, de Barbanson BA, Salmen F, van Oudenaarden A.
-    Year: 2024
-    Journal: biorXiv
-    Link: "https://www.biorxiv.org/content/10.1101/2024.05.09.593364v1.full"
     Weight: 1
 
   - Title: "Single-cell sortChIC identifies hierarchical chromatin dynamics during hematopoiesis"

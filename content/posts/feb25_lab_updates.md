@@ -7,8 +7,8 @@ featured_image: ../assets/images/global/uu_kryutbuilding.jpeg
 summary: New incoming and outgoing interns
 author: vivek
 authorimage: ../assets/images/global/author.png
-categories: News
-tags: News
+categories: Updates
+tags: Updates
 ---
 
 Feb '25: Faik Usul finished his internship with us and presented his results. He will now move on to continue the rest of his master's program in Bioinformatics.
