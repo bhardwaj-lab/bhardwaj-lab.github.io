@@ -7,8 +7,8 @@ featured_image: ../assets/images/posts/zebrafish_umaps.png
 summary: Single-cell multiomics analysis of zebrafish embryos is now published (and other lab updates)
 author: vivek
 authorimage: ../assets/images/global/author.png
-categories: News
-tags: News
+categories: Updates
+tags: Updates
 ---
 
 # Article published
