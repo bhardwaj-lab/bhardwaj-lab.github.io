@@ -24,7 +24,7 @@ member:
     Weight: 1
 
   - Name: "Toni van Capel"
-    Image: ../assets/images/team/unknown.jpg
+    Image: ../assets/images/team/toni_vd_capel.jpg
     Jobtitle: "Research Assistant"
     Linkedinurl: "#"
     Mail: "t.m.m.vancapel@uu.nl"
