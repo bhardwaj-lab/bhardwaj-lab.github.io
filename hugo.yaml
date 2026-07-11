@@ -59,8 +59,8 @@ params:
     heading: "Our mission"
     image: "images/pages/web_slides_p1.png"
     content:
-      - text: "The long-term goal of our lab is to transform human medicine by enabling technologies for in-vivo, directed (re)programming of stem cells into specialized cell types."
-      - text: "To acheive this, we need to develop a strong understanding of the fundamental mechanisms that guide the fate decisions for 'naive' stem and pluripotent cells inside our body. During development of an embryo, these cells, which share their genetic code, start to diversify in their 'epigenetic' landscapes. Guided by the regulatory proteins (transcription factors) and their chromatin environment, these cells change their identity in order to perform specific tasks."
+      - text: "The long-term goal of our lab is to transform human medicine by enabling technologies for in-vivo programming of stem cells into specialized cell types."
+      - text: "To acheive this, we need to build a strong understanding of the fundamental mechanisms that guide the fate decisions for stem and pluripotent cells inside our body. During development of an embryo, these cells, which share their genetic code, start to diversify in their 'epigenetic' landscapes. Guided by the regulatory proteins (called "transcription factors") and their chromatin environment, these cells change their identity in order to perform specific tasks."
       - text: "By learning the quantitative, dose-response relationship between the epigenetic factors and the decision making process of the cells, we would be able to efficiently reprogram the stem cells into a desired cell type. We can use this understanding to build therapies towards regenerative medicine, healthy aging and cancer."
     links:
       - text: Learn more about epigenetic reprogramming
