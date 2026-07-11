@@ -30,13 +30,6 @@ member:
     Mail: "t.m.m.vancapel@uu.nl"
     Weight: 1
 
-  - Name: "Mai Le"
-    Image: ../assets/images/team/mai_le.jpg
-    Jobtitle: "Master Student"
-    Linkedinurl: "#"
-    Mail: "m.le@students.uu.nl"
-    Weight: 1
-
   - Name: "Michiel Borghuis"
     Image: ../assets/images/team/michiel_borghuis.jpg
     Jobtitle: "Master Student"
@@ -61,3 +54,4 @@ member:
 |  Faik Usul            | Master student, 2024-2025    |                                          |
 |  Maria Karaboeva      | Master student, 2024-2025    |                                          |
 |  Caspar Bannink       | Master student, 2024-2025    |                                          |
+|  Mai Le               | Master student, 2025-2026    |                                          |
