@@ -13,7 +13,7 @@ Are you a student enrolled in a master's program in (applied) data science / com
  - We can only offer internships that involve a **minimum of 6 months of research work**.
  - We do not offer funded internship. Students are welcome to bring in independent funding to support their internship.
  - Students must already **bring strong programming skills** in a language appropriate for bioinformatics, such as Python, R, Java, C/C++ or Rust. Additionally, some linux or bash skills are desirable.
- - For the students with **technical background**, the knowledge of biology is not required. We expect you to bring in good foundation in data science and/or algorithms. An interest in learning the biological background behind our project (particularly the data generation process) is desirable.
+ - For the students with **technical/quantitative background**, the knowledge of biology is not required. We expect you to bring in good foundation in data science and/or algorithms. An interest in learning the biological background behind our project (particularly the data generation process) is desirable.
  - For students with **life science background**, the knowledge of data science or algorithms is not necessary. We expect you to bring in a solid understanding of molecular biology and (regulatory) genomics. An interest in learning the statistical and algorithmic foundation of data analysis is desirable.
 
 For students enrolled in molecular life sciences / genetics / biomedical sciences programs, we have opportunities for specific mixed (wet+dry lab) projects from time to time. Feel free to [contact vivek](mailto:v.bhardwaj@uu.nl) clearly indicating if you are interested in such projects.
