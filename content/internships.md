@@ -16,7 +16,7 @@ Are you a student enrolled in a master's program in (applied) data science / com
  - For the students with **technical/quantitative background**, the knowledge of biology is not required. We expect you to bring in good foundation in data science and/or algorithms. An interest in learning the biological background behind our project (particularly the data generation process) is desirable.
  - For students with **life science background**, the knowledge of data science or algorithms is not necessary. We expect you to bring in a solid understanding of molecular biology and (regulatory) genomics. An interest in learning the statistical and algorithmic foundation of data analysis is desirable.
 
-For students enrolled in (molecular) life sciences or related programs, we also have opportunities for specific mixed (wet+dry lab) projects from time to time. Feel free to [contact vivek](mailto:v.bhardwaj@uu.nl) clearly indicating if you are interested in such projects.
+For students enrolled in (molecular) life sciences or related programs, we also have opportunities for specific mixed (wet+dry lab) projects from time to time. Feel free to clarify this in the email if you are interested in such projects.
 
 If you are enrolled in the UU [BiBC program](https://www.uu.nl/en/masters/bioinformatics-and-biocomplexity), with a life science background, you are welcome to apply to us for your second, 6 month internship (under [GSLS profile: general research](https://students.uu.nl/en/gsls/education/profiles/general-research-profile)), once you have gathered sufficient technical skills with your first internship.
 
@@ -27,7 +27,7 @@ If you are enrolled in the UU [BiBC program](https://www.uu.nl/en/masters/bioinf
   - link to an online code repository (github/gitlab) showcasing your programming experience. If that's not available, send us a report of a practical assignment which highlights your programming and (optionally) your data science skills.
   - a short motivation statement about your research interests.
 
-In your email, clearly indicate the expected start and end date of your internship, and provide a link/document form your master program that outlines the internship process. If we have a spot available, we will require a reference letter from the supervisor of your current/previous internship based on a template which we will provide to you. Please confirm with them in advance whether they can provide this.
+In your email, clearly indicate the expected start and end date of your internship, and provide a link/document form your master program that outlines the internship process. If we have a spot available, we will require a reference letter from the supervisor of your current/previous internship based on a form which we will provide to you. Please confirm with them in advance whether they can fill this form for us (takes 5-10 minutes).
 
 **Step-2:** We will schedule an interview (preferably on-site), which includes a short presentation from you (10 min) about your background and previous project experience, and a 1-on-1 discussion of potential projects that might be suitable and interesting for you. If you can not provide a referees detail at step-1 and we still have a spot available, we will need a longer interview at this stage.
 
