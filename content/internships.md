@@ -27,15 +27,11 @@ If you are enrolled in the UU [BiBC program](https://www.uu.nl/en/masters/bioinf
   - link to an online code repository (github/gitlab) showcasing your programming experience. If that's not available, send us a report of a practical assignment which highlights your programming and (optionally) your data science skills.
   - a short motivation statement about your research interests.
 
-In your email, clearly indicate the expected start and end date of your internship, and provide a link/document form your master program that outlines the internship process.
+In your email, clearly indicate the expected start and end date of your internship, and provide a link/document form your master program that outlines the internship process. If we have a spot available, we will require a reference letter from the supervisor of your current/previous internship based on a template which we will provide to you. Please confirm with them in advance whether they can provide this.
 
-If we have a spot available, we will require a reference letter from the supervisor of your current/previous internship based on a template which we will provide to you. Please confirm with them in advance whether they can provide this.
+**Step-2:** We will schedule an interview (preferably on-site), which includes a short presentation from you (10 min) about your background and previous project experience, and a 1-on-1 discussion of potential projects that might be suitable and interesting for you. If you can not provide a referees detail at step-1 and we still have a spot available, we will need a longer interview at this stage.
 
-If this is your first project experience and no suitable referees are available, please let us know. In this case, we will need a longer interview at step-2 (below) if a spot is available.
-
-**Step-2:** We will schedule an interview (preferably on-site), which includes a short presentation from you (15 min) about your background and previous project experience, and a 1-on-1 discussion of potential projects that might be suitable and interesting for you.
-
-**Step-3:** You prepare a project pre-proposal/abstract based on literature search and the information provided by us. You (together with us) also identify an external examiner who, together with your daily supervisor from our lab, will read and approve your proposal. Once the proposal is approved by everyone, your internship can begin.
+**Step-3:** If you are invited, you can prepare a project pre-proposal/abstract based on literature search and the information provided by us. You (together with us) also identify an external examiner who, together with your daily supervisor from our lab, will read and approve your proposal. Once the proposal is approved by everyone, your internship can begin.
 
 **In some master programs a detailed proposal is part of the project itself (or part of interim assessment). This is different from *step-3* above.**
 
