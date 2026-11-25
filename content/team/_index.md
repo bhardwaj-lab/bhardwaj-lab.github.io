@@ -9,6 +9,13 @@ member:
     Mail: "v.bhardwaj@uu.nl"
     Weight: 1
 
+  - Name: "Jiayou He"
+    Image: ../assets/images/team/jiayou_he.jpg
+    Jobtitle: "Postdoc"
+    Linkedinurl: "https://www.linkedin.com/in/jiayouhe"
+    Mail: "j.he3@uu.nl"
+    Weight: 1
+
   - Name: "Fernando Sancho Gomez"
     Image: ../assets/images/team/fernando_sgomez.jpg
     Jobtitle: "PhD Student"
@@ -35,6 +42,13 @@ member:
     Jobtitle: "Master Student"
     Linkedinurl: "#"
     Mail: "g.m.borghuis@students.uu.nl"
+    Weight: 1
+
+  - Name: "Dirk Hermans"
+    Image: ../assets/images/team/dirk_hermans.jpg
+    Jobtitle: "Intern"
+    Linkedinurl: "https://www.linkedin.com/in/hermansd/"
+    Mail: "d.hermans2@students.uu.nl"
     Weight: 1
 
   - Name: "You"
