@@ -5,21 +5,21 @@ member:
   - Name: "Vivek Bhardwaj"
     Image: ../assets/images/team/vbhardwaj_headshot.png
     Jobtitle: "Group Leader"
-    Linkedinurl: "https://www.linkedin.com/in/vivekbhr"
+    Linkedinurl: "vivekbhr"
     Mail: "v.bhardwaj@uu.nl"
     Weight: 1
 
   - Name: "Jiayou He"
     Image: ../assets/images/team/jiayou_he.jpg
     Jobtitle: "Postdoc"
-    Linkedinurl: "https://www.linkedin.com/in/jiayouhe"
+    Linkedinurl: "jiayouhe"
     Mail: "j.he3@uu.nl"
     Weight: 1
 
   - Name: "Fernando Sancho Gomez"
     Image: ../assets/images/team/fernando_sgomez.jpg
     Jobtitle: "PhD Student"
-    Linkedinurl: "https://www.linkedin.com/in/fernando-sancho-gomez/"
+    Linkedinurl: "fernando-sancho-gomez"
     Mail: "f.sanchogomez@uu.nl"
     Weight: 1
 
@@ -47,7 +47,7 @@ member:
   - Name: "Dirk Hermans"
     Image: ../assets/images/team/dirk_hermans.jpg
     Jobtitle: "Intern"
-    Linkedinurl: "https://www.linkedin.com/in/hermansd/"
+    Linkedinurl: "hermansd"
     Mail: "d.hermans2@students.uu.nl"
     Weight: 1
 
